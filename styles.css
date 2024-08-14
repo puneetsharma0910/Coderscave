@@ -1,0 +1,16 @@
+.card {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+}
